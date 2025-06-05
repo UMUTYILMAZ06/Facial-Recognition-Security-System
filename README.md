@@ -121,3 +121,6 @@ This project was developed by:
 
 Department of Computer Engineering
 Çankaya University
+
+The dataset could be accessed from this link:
+https://www.kaggle.com/datasets/jessicali9530/celeba-dataset
